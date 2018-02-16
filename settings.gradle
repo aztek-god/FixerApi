@@ -1,0 +1,4 @@
+rootProject.name = 'fixer'
+include 'core'
+include 'rest'
+
